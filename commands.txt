@@ -2,7 +2,7 @@ Lets run Mongo
 docker run -d   --name mongodb -v "$PWD/data:/data/db" -v "$PWD/import:/home" mongo:3.6 
 Now lets see a file of data
 We can import it like this
-docker  exec  mongodb mongoimport  myflix --collection films --drop --file /home/film.json
+docker  exec  mongodb mongoimport --db myflix --collection films --drop --file /home/film.json
 We enter the docker container like this
 docker exec -i -t mongodb bash
 And run the Mongo shell
