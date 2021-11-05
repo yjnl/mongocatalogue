@@ -9,4 +9,4 @@ docker run -d -e MONGO_INITDB_ROOT_USERNAME='restheart' -e MONGO_INITDB_ROOT_PAS
 sleep 20
 docker  exec  mongodb mongoimport  -u restheart -p R3ste4rt! --authenticationDatabase admin --db myflix --collection videos --drop --file /home/videos.json
 docker  exec  mongodb mongoimport  -u restheart -p R3ste4rt! --authenticationDatabase admin --db myflix --collection categories --drop --file /home/categories.json
-docker run -d -p 80:8080 --name restheart --link mongodb:mongodb softinstigate/restheart
+docker run -d -p 80:8080 --name restheart --link mongodb:mongodb softinstigate/restheart:4.1.0
