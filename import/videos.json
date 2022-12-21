@@ -3,3 +3,9 @@
 {"video":{"server":3,"ip":"35.190.157.242","Name":"Installing and starting cassandra on a mac","file":"Installingandstartingcassandra-on-mac.mp4","thumb":"installingandstartingcassandra-on-mac-th.png","pic":"installingandstartingcassandra-on-mac.png","uuid":"38a817da-7728-4658-9ecd-44cf638daa81","category":"cassandra"}}
 {"video":{"server":4,"ip":"35.196.163.237","Name":"Running cassandra on a pc","file":"Runningcassandraonapc.mp4","thumb":"runningcassandraonapc-th.png","pic":"runningcassandraonapc.png","uuid":"31053444-4b35-4336-860b-db62f2aa8d4a","category":"cassandra"}}
 {"video":{"server":4,"ip":"35.196.69.43","Name":"Starting Erlang","file":"erlang1.mp4","thumb":"erlang1-th.png","pic":"erlang1.png","uuid":"45fcbe1d-3f94-4f42-89c4-2972db60c961","category":"erlang"}}
+{"video":{"Name":"Yellow Flowers","file":"yellow_flowers.mp4","thumb":"yellow_flowers.png","pic":"yellow_flowers.png","uuid":"2b164e0c-817b-11ed-a1eb-0242ac120002","category":"nature"}}
+{"video":{"Name":"White Dog","file":"white_dog.mp4","thumb":"white_dog.png","pic":"white_dog.png","uuid":"2b1653ac-817b-11ed-a1eb-0242ac120002","category":"animals"}}
+{"video":{"Name":"Small Waterfall","file":"small_waterfall.mp4","thumb":"small_waterfall.png","pic":"small_waterfall.png","uuid":"2b16551e-817b-11ed-a1eb-0242ac120002","category":"nature"}}
+{"video":{"Name":"Small Insect","file":"small_insect.mp4","thumb":"small_insect.png","pic":"small_insect.png","uuid":"2b165640-817b-11ed-a1eb-0242ac120002","category":"animals"}}
+{"video":{"Name":"Jester","file":"jester.mp4","thumb":"jester.png","pic":"jester.png","uuid":"2b165758-817b-11ed-a1eb-0242ac120002","category":"clowns"}}
+{"video":{"Name":"Ducks","file":"ducks.mp4","thumb":"ducks.png","pic":"ducks.png","uuid":"2b165866-817b-11ed-a1eb-0242ac120002","category":"animals"}}
