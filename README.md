@@ -1,2 +1,1 @@
 # mongocatalogue
-test2
